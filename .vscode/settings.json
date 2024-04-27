@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/ff229a56-2b7f-42c6-a2a0-f8a34dd07e67/resourceGroups/az-group-rg2/providers/Microsoft.Web/sites/az-webapp-vieri21-vscode-tools"
+}
