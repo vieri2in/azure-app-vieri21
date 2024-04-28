@@ -17,5 +17,6 @@ public class IndexModel : PageModel
     public void OnGet()
     {
         ViewData["Greeting"] = _configuration["Greeting"];
+        ViewData["Greeting_Sercret"] = _configuration["Greeting_Sercret"];
     }
 }
